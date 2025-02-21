@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Super Speciality Hospital, Amravati</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Super Speciality Hospital, Amravati</h1>
+    <p><strong>Address:</strong> Shrikrishna Peth, Amravati, Maharashtra, 444601</p>
+    <p><strong>Contact:</strong> +91 98675 98674</p>
+    <p><strong>Operating Hours:</strong> 24/7 Emergency and Medical Services</p>
+    
+    <h2>About the Hospital</h2>
+    <p>Super Speciality Hospital Amravati is a government healthcare facility dedicated to providing advanced medical care. It offers specialized treatments and is easily accessible from the Maltekdi railway station (0.68 km away).</p>
+
+    <h2>Services Offered</h2>
+    <ul>
+        <li>Neurosurgery</li>
+        <li>Urology</li>
+        <li>Plastic Surgery</li>
+        <li>Cardiology</li>
+        <li>Neurology</li>
+        <li>Nephrology</li>
+        <li>Oncology</li>
+        <li>Arthroscopic Surgery</li>
+        <li>Urosurgery</li>
+        <li>Hematology</li>
+        <li>Sports and Joint Injury Treatment</li>
+        <li>Squint Surgery</li>
+        <li>Oculoplasty</li>
+        <li>Retina Consultation</li>
+        <li>Cardiothoracic Surgery</li>
+    </ul>
+
+    <h2>More Information</h2>
+    <p>Visit: <a href="https://amravati.gov.in/public-utility/super-speciality-hospital/">Amravati District Website</a></p>
+    <p>Follow us on <a href="https://www.facebook.com/superspecialityamt/">Facebook</a></p>
+
+    <p><strong>Emergency Services Available 24/7</strong></p>
+</body>
+</html>
